@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+        <template id="customize_title" name="customize title" inherit_id="web.layout">
+            <xpath expr="//title" position="replace">
+                <title>Aro</title>
+            </xpath>
+        </template>
+    </data>
+</openerp>
