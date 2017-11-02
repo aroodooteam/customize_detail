@@ -11,7 +11,7 @@
         "views/backend.xml",
     ],
     "depends": [
-        "base","web"
+        "base","web","website"
     ],
     "installable": True,
     "auto_install": False,
